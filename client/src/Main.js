@@ -12,7 +12,9 @@ export default function Main() {
         <Header />
         <About />
         <Comics />
-        
+        <Contact/>
+        <Portfolio />
+        <Instagram /> 
     </div>
   )
 }
