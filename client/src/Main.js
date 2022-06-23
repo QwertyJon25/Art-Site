@@ -3,6 +3,8 @@ import Header from "./Header";
 
 export default function Main() {
   return (
-    <div>Main</div>
+    <div className='Main'>Main
+        <Header />
+    </div>
   )
 }
