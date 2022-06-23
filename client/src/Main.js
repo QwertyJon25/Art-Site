@@ -10,6 +10,9 @@ export default function Main() {
   return (
     <div className='Main'>Main
         <Header />
+        <About />
+        <Comics />
+        
     </div>
   )
 }
